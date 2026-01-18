@@ -1,4 +1,4 @@
-# dsa-journey
+# DSA Journey
 A personal journey of mastering Data Structures & Algorithms through practice.
 
 
